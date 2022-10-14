@@ -1,7 +1,7 @@
-#include <stdio.h>
+i#include <stdio.h>
 /**
- *main - main block
- *Return: 0
+ *print out without printf 
+ *return 0 to complete function
  */
 int main(void)
 {
