@@ -1,10 +1,10 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
- *print out without printf 
- *return 0 to complete function
+ *main - prints the phrase "Programming is like building a multilingual puzzle" 
+ *return: 0 if executed well, otherwise not zero
  */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
-			return (0);
+		return (0);
 }
