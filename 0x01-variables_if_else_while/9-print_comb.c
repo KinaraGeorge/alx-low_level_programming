@@ -9,7 +9,7 @@ int main(void)
 
 	for (x = 48; x < 58; x++)
 	{
-		putchar(n);
+		putcha (x);
 		if (x != 57)
 		{
 			putchar(',');
