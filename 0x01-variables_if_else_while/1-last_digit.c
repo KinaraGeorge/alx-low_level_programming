@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Determine if the last digit of a random number
- * Return: 0 on success
+ * Return: 0 if successfully executed
  */
 int main(void)
 {
