@@ -9,7 +9,7 @@ void print_alphabet_x10(void)
 {
 	int x;
 
-	for (x = 0; x < 10; x++)
+	for (x = 0; x <= 10; x++)
 	{
 		char alpha;
 
@@ -19,6 +19,5 @@ void print_alphabet_x10(void)
 		}
 		_putchar('\n');
 	}
-	_putchar('\n');
 }
 
