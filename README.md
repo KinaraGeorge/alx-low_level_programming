@@ -1,2 +1,2 @@
 # alx-low_level_programming
-c programming scripts
+c programming scripts course
